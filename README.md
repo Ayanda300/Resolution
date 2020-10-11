@@ -1,0 +1,2 @@
+# Resolution
+Bidding Auction 
